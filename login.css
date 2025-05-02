@@ -135,6 +135,13 @@ input:not(:placeholder-shown)+label{
     border-bottom-color: #151111 !important;
 }
 
+/*.input-field.acive{
+    border-bottom-color: #151111;
+}
+.input-field.acive + label{
+    font-size: 12px;
+    top: -2px;
+}*/
 
 .sign-btn{
     display:inline-block;
